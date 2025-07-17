@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(247, 247, 247);
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(1f1e9-1f1f4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0%;
+    text-align: center;
+    margin-top: 400px;
+
+}
+
+h2 {
+    margin-top: 20%;
+    text-align: center;
+}
+
+button {
+    border-radius: 0%;
+    border-color: blue;
+}
+
+input {
+    border-radius: 0%;
+    border-color: red;
+}
+
+/*footer {
+    margin:0% ;
+
+}
